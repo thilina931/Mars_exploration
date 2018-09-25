@@ -1,6 +1,5 @@
 ADCSA Subtask 3
-
-IT15115430  	27045245 	R.A.U.S. Rajamanthri 
-IT15036926  	27045229 	K.H.C.P. Lakmal 
-IT15005786  	27045233 	T.L. Bogahawatta 
-IT15007698  	27045225 	U.N. Jayawardena 
+R.A.U.S. Rajamanthri 
+K.H.C.P. Lakmal 
+T.L. Bogahawatta
+U.N. Jayawardena 
